@@ -8,10 +8,4 @@ Once you've extracted the zipped or rar folders, simply run the setup and the ga
 
 Yours truely,
 
-  __  ____      ___      _      _____ 
- |  \/  \ \    / / |    | |    |_   _|
- | \  / |\ \  / /| |    | |      | |  
- | |\/| | \ \/ / | |    | |      | |  
- | |  | |  \  /  | |____| |____ _| |_ 
- |_|  |_|   \/   |______|______|_____|
-                                      
+![image](https://github.com/downlikethat/Mvlli-s-Scary-Games/assets/64391854/80217dc7-a267-4b83-9e3c-66d0443a737c)
