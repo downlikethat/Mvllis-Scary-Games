@@ -8,4 +8,4 @@ Once you've extracted the zipped or rar folders, simply run the setup and game f
 
 Yours truly,
 
-【M】【V】【L】【L】【I】
+![alt text](https://github.com/downlikethat/Images/blob/main/text-1692811974631.png)
